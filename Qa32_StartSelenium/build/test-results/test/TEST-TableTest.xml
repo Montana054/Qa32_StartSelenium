@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TableTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-15T10:18:15" hostname="WIN-6CQ3264SSN2" time="3.951">
+  <properties/>
+  <testcase name="xPathTests" classname="TableTest" time="3.951"/>
+  <system-out><![CDATA[Text of element --->Item 1
+Text of element --->Clicked by Item 1
+Text of element --->Item 2
+Text of element --->Item 3
+Text of element --->Item 4
+Text of element --->Europe
+Text of element --->Israel
+Text of element --->America
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}) on port 40893
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jun 15, 2022 1:18:17 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
